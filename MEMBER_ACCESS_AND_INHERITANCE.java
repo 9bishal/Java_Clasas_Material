@@ -34,8 +34,6 @@ public class MEMBER_ACCESS_AND_INHERITANCE {
     public static void main(String[] args) {
         parent  Parent = new parent();
         Parent.display();
-
-
         child Child = new child();
         Child.show();
     }
